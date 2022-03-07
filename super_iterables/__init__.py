@@ -5,4 +5,4 @@ __email__ = "remi.delbouys@laposte.net"
 __version__ = "0.1.0"
 
 
-from .super_iterables import superdict, superset, superlist, Option, Some, NullOption
+from .super_iterables import NullOption, Option, Some, superdict, superlist, superset
