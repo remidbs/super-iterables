@@ -68,6 +68,7 @@ jobs:
         with:
           fail_ci_if_error: true
           files: coverage.xml
+          token: ${{ secrets.CODECOV_TOKEN }}
 
       - name: Build wheels and source tarball
         run: |
