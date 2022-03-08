@@ -1,7 +1,7 @@
 site_name: super-iterables
 # site_url: http://www.jieyu.ai
-repo_url: https://github.com/remidbs/super_iterables
-repo_name: super_iterables
+repo_url: https://github.com/remidbs/super-iterables
+repo_name: super-iterables
 #strict: true
 nav:
   - home: index.md
@@ -70,7 +70,7 @@ extra:
       link: http://www.jieyu.ai
       name: Facebook
     - icon: fontawesome/brands/github
-      link: https://github.com/remidbs/super_iterables
+      link: https://github.com/remidbs/super-iterables
       name: Github
     - icon: material/email
       link: "mailto:remi.delbouys@laposte.net"

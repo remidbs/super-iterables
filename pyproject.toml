@@ -1,8 +1,8 @@
 [tool]
 [tool.poetry]
-name = "super_iterables"
+name = "super-iterables"
 version = "0.1.0"
-homepage = "https://github.com/remidbs/super_iterables"
+homepage = "https://github.com/remidbs/super-iterables"
 description = "Experimenting with Scala-like API for set, dict and list."
 authors = ["Rémi Delbouys <remi.delbouys@laposte.net>"]
 readme = "README.md"

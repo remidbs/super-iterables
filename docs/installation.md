@@ -6,7 +6,7 @@ To install super-iterables, run this command in your
 terminal:
 
 ``` console
-$ pip install super_iterables
+$ pip install super-iterables
 ```
 
 This is the preferred method to install super-iterables, as it will always install the most recent stable release.
@@ -22,13 +22,13 @@ the [Github repo][].
 You can either clone the public repository:
 
 ``` console
-$ git clone git://github.com/remidbs/super_iterables
+$ git clone git://github.com/remidbs/super-iterables
 ```
 
 Or download the [tarball][]:
 
 ``` console
-$ curl -OJL https://github.com/remidbs/super_iterables/tarball/master
+$ curl -OJL https://github.com/remidbs/super-iterables/tarball/master
 ```
 
 Once you have a copy of the source, you can install it with:
