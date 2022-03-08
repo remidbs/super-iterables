@@ -99,7 +99,8 @@ Before you submit a pull request, check that it meets these guidelines:
    https://github.com/remidbs/super_iterables/actions
    and make sure that the tests pass for all supported Python versions.
 
-## Tips```
+## Tips
+```
     $ pytest tests.test_super_iterables
 ```To run a subset of tests.
 
